@@ -1,3 +1,8 @@
+package View;
+
+import Model.Histogram;
+import Model.Mail;
+
 import java.util.List;
 
 public class MailHistogramBuilder {

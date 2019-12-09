@@ -1,5 +1,9 @@
+package View;
+
 import java.awt.Dimension;
 import javax.swing.JPanel;
+
+import Model.Histogram;
 import org.jfree.chart.ChartFactory;
 import org.jfree.chart.ChartPanel;
 import org.jfree.chart.JFreeChart;
